@@ -1,0 +1,27 @@
+{
+  "name": "proffy_nlw2",
+  "version": "1.0.0",
+  "description": "Projeto de plataforma para disponibilização de aulas online, desenvolvido durante o Next Level Week #2 promovido pela Rocketseat. @JavaScript @React",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marialubarbosa/proffy_nlw2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "npm/proffy_nlw2/issues"
+  },
+  "homepage": "https://github.com/marialubarbosa/proffy_nlw2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
